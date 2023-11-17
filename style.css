@@ -31,7 +31,7 @@ body{
     font-family: 'Montserrat';
     font-weight: 500;
     font-size: 30px;
-    color: #69737d;
+    color: #e6ebef;
     align-items: center;
     position: relative;
     display: inline-block;
@@ -44,7 +44,7 @@ body{
     font-family: 'Montserrat';
     font-weight: 100;
     font-size: 30px;
-    color: #69737d;
+    color: #e6ebef;
     align-items: center;
     position: relative;
     display: inline-block;
@@ -58,7 +58,7 @@ body{
     left: 0;
     width: 100%;
     height: 3px;
-    background-color: #e6ebef;
+    background-color: #69737d;
     border-radius: 100px;
     transform: scaleX(0);
     transform-origin: 0 0;
